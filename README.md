@@ -2,7 +2,7 @@
 <br>
 Desarrollador independiente. Me gusta aprender nuevas tecnologias, fanatico del código abierto, extender y compartir mi conocimiento y la automatización.
 <br>
-**Cualidades**
+
 * Explorando tecnologias nuevas
 * Me gusta colaborar en proyectos de codigo abierto.
 
