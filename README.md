@@ -1,5 +1,4 @@
 <a href="https://github.com/KenethSandoval"><img align="center" width="400px" src="./images/logo.png"></img></a>
-<br><br>
 
 ## Desarrollador de software 💻
 <br>
