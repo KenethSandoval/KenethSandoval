@@ -1,3 +1,5 @@
+<img align="left" height="30px" src="./images/logo.png"></img>
+
 ## Desarrollador de software 💻
 <br>
 Desarrollador independiente. Me gusta aprender nuevas tecnologias, fanatico del código abierto, extender y compartir mi conocimiento y la automatización.
