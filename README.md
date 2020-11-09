@@ -1,4 +1,4 @@
-<img align="left" height="30px" src="./images/logo.png"></img>
+<img align="left" height="100%" src="./images/logo.png"></img>
 
 ## Desarrollador de software 💻
 <br>
